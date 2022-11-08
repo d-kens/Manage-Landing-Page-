@@ -158,7 +158,6 @@ UTILITY CLASSES
 
    width: min(var(--max-width), 100% - (var(--padding) * 2));
    margin-inline: auto;
-   background-color: yellowgreen;
 }
 
 .even-columns {
@@ -177,7 +176,6 @@ UTILITY CLASSES
 GENERAL STYLING
 ====================================*/
 body {
-    background-color: red;
     font-size: var(--fs-body);
     font-family: var(--ff-body);
     color: var(--clr-primary-400);
